@@ -955,7 +955,7 @@ The main cheat sheet focuses on the Git fundamentals.
 
 For practical workflows and modern development environments, see:
 
-- [Git Desktop Reference](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-desktop-reference.md)
+- [Git Desktop Reference](./git-desktop-reference.md)
 - [Git with AI Agents](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-with-ai-agents.md)
 - [Git in VSCode](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-in-vscode.md)
 - [Git Collaboration](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-collaboration.md)
