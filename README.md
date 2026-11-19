@@ -949,3 +949,17 @@ Cloud Backup
 ```
 
 That's Git.
+# Other Git Topics
+
+The main cheat sheet focuses on the Git fundamentals.
+
+For practical workflows and modern development environments, see:
+
+- [Git Desktop Reference](./other-git-topics/git-desktop-reference.md)
+- [Git with AI Agents](./other-git-topics/git-with-ai-agents.md)
+- [Git in VSCode](./other-git-topics/git-in-vscode.md)
+- [Git Collaboration](./other-git-topics/git-collaboration.md)
+- [Git Automation & CI/CD](./other-git-topics/git-automation-ci-cd.md)
+- [Git Branching Strategies](./other-git-topics/git-branching-strategies.md)
+- [Git Troubleshooting](./other-git-topics/git-troubleshooting.md)
+- [Git for Solo Developers](./other-git-topics/git-for-solo-developers.md)
