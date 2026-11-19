@@ -956,10 +956,10 @@ The main cheat sheet focuses on the Git fundamentals.
 For practical workflows and modern development environments, see:
 
 - [Git Desktop Reference](./git-desktop-reference.md)
-- [Git with AI Agents](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-with-ai-agents.md)
-- [Git in VSCode](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-in-vscode.md)
-- [Git Collaboration](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-collaboration.md)
-- [Git Automation & CI/CD](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-automation-ci-cd.md)
-- [Git Branching Strategies](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-branching-strategies.md)
-- [Git Troubleshooting](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-troubleshooting.md)
-- [Git for Solo Developers](https://github.com/Woogles/git_cheat_Sheet/blob/main/git-for-solo-developers.md)
+- [Git with AI Agents](./git-with-ai-agents.md)
+- [Git in VSCode](./git-in-vscode.md)
+- [Git Collaboration](./git-collaboration.md)
+- [Git Automation & CI/CD](./git-automation-ci-cd.md)
+- [Git Branching Strategies](./git-branching-strategies.md)
+- [Git Troubleshooting](./git-troubleshooting.md)
+- [Git for Solo Developers](./git-for-solo-developers.md)
